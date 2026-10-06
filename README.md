@@ -165,8 +165,6 @@ git clone <URL_DU_PROJET>
 cd socket-chat
 ```
 
-Aucune dépendance externe particulière n'est indiquée dans le dépôt actuel.
-
 ---
 
 ## Exécution
